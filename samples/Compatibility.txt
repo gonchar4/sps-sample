@@ -1,0 +1,4 @@
+JAVA SDK
+
+Included:
+- Label Service v1.0
